@@ -1,0 +1,11 @@
+# 1. Add the files again. Let the warnings scroll until it finishes.
+git add .
+
+# 2. Commit the files
+git commit -m "Initial commit of project files"
+
+# 3. Connect to GitHub
+git remote add origin https://github.com/srinubabusanagala/FUTURE_CS_01.git
+
+# 4. Push your code
+git push --force -u origin main
